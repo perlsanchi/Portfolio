@@ -19,11 +19,13 @@ Looking for the following roles-->
 ### Stock Price Prediction using LSTM Version
 - Data Analysis and Visualization along with Prediction of Close Price using [ Long Short Term Memory (LSTM) ] of Tesla Stock.
 - [Project Link Here](https://www.kaggle.com/code/natashameshram/stock-price-prediction-using-lstm-version-2)
+- ![Stock Price - Tesla](Screenshot(118).png)
 
 ### Image Denoising using AutoEncoders
 - We ever have faced trouble dealing with a hardcopy that has some ink fallen on or which is unclear or we have wrinkles on that paper and we have that only copy and we want to submit a clear version of that same piece then we can use the following model.
 - Used Autoencoder for removing noise from the background image
 - [Project link here](https://www.kaggle.com/code/natashameshram/image-denoising-autoencoders)
+- ![Autoencoders](AUTOENCODERS.png)
 
  ### Generating Fake Faces with Generative Adversarial Network
  - Isn't it spooky if i tell you that 
