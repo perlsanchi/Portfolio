@@ -1,3 +1,10 @@
+![Me](ME.jpg)
+
+# NATASHA YUWARAJ MESHRAM 
+- Email - sanchimeshram211@gmail.com
+- Mobile - 9920460894
+
+  
 Software Developer in ICICI SECURITIES..
 Looking for the following roles-->
 ## Data Scientist | Machine Learning | Deep Learning
@@ -13,13 +20,13 @@ Looking for the following roles-->
 ## Work Experience
 **Software Developer @ ICICI SECURITIES** (2021 - Present)
 - Working on ProC, Python Programming language and Oracle (SQL Query Language) to deliver different products through Automation
-- Have worked on different Whatsapp modules for Automation and Analysis and Site and App Login Modules
+- Have worked on different Whatsapp modules (for Automation and Analysis) and Site & App Login Modules
 
 ## Projects
 ### Stock Price Prediction using LSTM Version
 - Data Analysis and Visualization along with Prediction of Close Price using [ Long Short Term Memory (LSTM) ] of Tesla Stock.
 - [Project Link Here](https://www.kaggle.com/code/natashameshram/stock-price-prediction-using-lstm-version-2)
-- ![Stock Price - Tesla](Screenshot(118).png)
+- ![Stock Price - Tesla](lstm.png)
 
 ### Image Denoising using AutoEncoders
 - We ever have faced trouble dealing with a hardcopy that has some ink fallen on or which is unclear or we have wrinkles on that paper and we have that only copy and we want to submit a clear version of that same piece then we can use the following model.
@@ -28,14 +35,21 @@ Looking for the following roles-->
 - ![Autoencoders](AUTOENCODERS.png)
 
  ### Generating Fake Faces with Generative Adversarial Network
- - Isn't it spooky if i tell you that 
+ - Isn't it spooky if i tell you that the below images DOESN'T EXISTS..
+ - Used GAN to create Non exisiting faces
+ - [Project link here](https://www.kaggle.com/code/natashameshram/generative-adversarial-network-fake-faces)
+ - ![GAN](GAN.png)
+
+## BLOGS
+### Biological Neuron and Artificial Neuron
+-  Have detailed the difference between Biological and Artificial Neuron
+-  [Blog Link](https://medium.com/@natashameshram/biological-neuron-and-artificial-neuron-cdee3d07cbf7)
+### Generative Adversarial Network
+-  Explained what are Generators and Discriminators (The chor and police!)
+- [Blog Link](https://medium.com/@natashameshram/generative-adversarial-networks-237babbaf430)
 
 
 
-
-
-
-## Certifications
 
 
 
