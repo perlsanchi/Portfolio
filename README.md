@@ -42,7 +42,8 @@ As I embark on this journey of transition, I am eager to leverage my existing sk
 ### Emotion Detection Using Convolution Neural Network
 - Implemented Emotion Detection using Convolution Neural Network
 - [Project link here](https://www.kaggle.com/code/natashameshram/emotion-detection-using-cnn)
-- ![Emotion Detection]
+- ![Emotion Detection](emotion_detection.png)
+  
 ### Image Denoising using AutoEncoders
 - We ever have faced trouble dealing with a hardcopy that has some ink fallen on or which is unclear or we have wrinkles on that paper and we have that only copy and we want to submit a clear version of that same piece then we can use the following model.
 - Used Autoencoder for removing noise from the background image
@@ -55,6 +56,10 @@ As I embark on this journey of transition, I am eager to leverage my existing sk
  - [Project link here](https://www.kaggle.com/code/natashameshram/generative-adversarial-network-fake-faces)
  - ![GAN](GAN.png)
 
+ ### Churn Modelling using ANN
+ - Churn modelling to predict whether customer will stay or leave.
+ -  [Project link here](https://www.kaggle.com/code/natashameshram/ann-natasha-meshram)
+
 ## BLOGS
 ### Biological Neuron and Artificial Neuron
 -  Have detailed the difference between Biological and Artificial Neuron
@@ -62,7 +67,9 @@ As I embark on this journey of transition, I am eager to leverage my existing sk
 ### Generative Adversarial Network
 -  Explained what are Generators and Discriminators (The chor and police!)
 - [Blog Link](https://medium.com/@natashameshram/generative-adversarial-networks-237babbaf430)
-
+### AI THE RULER
+-  Essay Writing on Kaggle
+-  [Link here](https://www.kaggle.com/code/natashameshram/ai-the-ruler)
 
 
 
