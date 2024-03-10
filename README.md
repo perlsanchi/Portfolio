@@ -36,8 +36,13 @@ As I embark on this journey of transition, I am eager to leverage my existing sk
 
 ### Generate Sketch Image using GAN
 - Implemented cGAN to generate Sketch Image of the input we provide to the Generator
-- [Proect link here](https://www.kaggle.com/code/natashameshram/landscape-images-cgan)
-- ![Sketch Image GAN](
+- [Project link here](https://www.kaggle.com/code/natashameshram/landscape-images-cgan)
+- ![Sketch Image GAN](comparison1.png)
+
+### Emotion Detection Using Convolution Neural Network
+- Implemented Emotion Detection using Convolution Neural Network
+- [Project link here](https://www.kaggle.com/code/natashameshram/emotion-detection-using-cnn)
+- ![Emotion Detection]
 ### Image Denoising using AutoEncoders
 - We ever have faced trouble dealing with a hardcopy that has some ink fallen on or which is unclear or we have wrinkles on that paper and we have that only copy and we want to submit a clear version of that same piece then we can use the following model.
 - Used Autoencoder for removing noise from the background image
